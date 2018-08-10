@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "218460055306",
+    "firebase_url": "https://image-processing-1a333.firebaseio.com",
+    "project_id": "image-processing-1a333",
+    "storage_bucket": "image-processing-1a333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218460055306:android:af3aa7ff98d8e0db",
+        "android_client_info": {
+          "package_name": "com.arc.imageprocessing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218460055306-k868es3fmgt6ils4ivkitjjq603buai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFnsE6MlbJrKk2vHAu9sxUL5mijbZHPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218460055306:android:4a955edc750131fb",
+        "android_client_info": {
+          "package_name": "com.arc.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218460055306-k868es3fmgt6ils4ivkitjjq603buai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFnsE6MlbJrKk2vHAu9sxUL5mijbZHPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

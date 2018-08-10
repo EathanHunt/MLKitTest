@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image Processing</string>
+    <string name="live_preview">Live preview</string>
+    <string name="still_image">Select image</string>
+    <string-array name="actions_array">
+        <item>Face Detection</item>
+        <item>Text Detection</item>
+        <item>Barcode Detection</item>
+        <item>Label Detection</item>
+        <item>Classification</item>
+    </string-array>
+</resources>
